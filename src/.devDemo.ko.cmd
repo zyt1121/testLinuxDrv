@@ -1,1 +1,0 @@
-cmd_/media/sf_vboxShare/testDrv/src/devDemo.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.0.0-12-generic/scripts/module-common.lds --build-id  -o /media/sf_vboxShare/testDrv/src/devDemo.ko /media/sf_vboxShare/testDrv/src/devDemo.o /media/sf_vboxShare/testDrv/src/devDemo.mod.o
